@@ -15,6 +15,7 @@ struct ContentView: View {
                 .padding()
             Text("Fresh milk every day")
             Spacer()
+            Image("milk")
         }
         
     }
