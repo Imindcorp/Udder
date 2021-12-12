@@ -16,10 +16,12 @@ struct ContentView: View {
             Text("Fresh milk every day")
             Spacer()
             Image("milk")
+            Image("asdf")
         }
         
     }
 }
+
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
