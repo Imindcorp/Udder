@@ -17,6 +17,7 @@ struct ContentView: View {
             Spacer()
             Image("milk")
             Image("asdf")
+            Spacer()
         }
         
     }
